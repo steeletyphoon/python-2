@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+import colors as c
+import random
+import time
+
+print(c.red + "Welcome to the python-2 class where everone is a magic pancake.")
