@@ -1,8 +1,8 @@
 """Has Stats Interface"""
 
 class HasStats():
-    strength = 0
-    courage = 0
-    health = 0
-    wisdom = 0
-    agility = 0
+    strength = 5
+    courage = 5
+    health = 5
+    wisdom = 5
+    agility = 5
